@@ -1,5 +1,7 @@
-venv
+.venv
 .idea
+.csv
+__pycache__
 example.py
 parents.csv
 children.csv
